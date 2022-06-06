@@ -1,3 +1,5 @@
 some text hihihihi":
-chabges from master - new changes!!!!!
+chabges from master
+changes from first 
 
+text from master: new changes!!!
